@@ -13,7 +13,7 @@ An Al-powered agent that answers guest questions for a hotel.
 - Instructions: you are a helpful hotel concierge attending to guest inquiries and concerns. Be nice and have a great attitude to the customer.
 
 ## Demonstration
-- Placeholder
+- Video Link URL
 
 ## Lessons Learned
 
